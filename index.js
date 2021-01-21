@@ -868,7 +868,7 @@ client.on('group-participants-update', async (anu) => {
             case 'creator':
             if (getLevelingLevel(sender) < ahf ) return reply(ind.reglevelahf(command, pushname, getLevelingLevel, sender, ahf))
                   client.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
-       client.sendMessage(from, 'Tuh nomer owner ku >_<, jangan spam atau ku block kamu',MessageType.text, { quoted: mek} )
+       client.sendMessage(from, 'Tuh nomer owner ku >_<,',MessageType.text, { quoted: mek} )
            break    
            case 'setname':
                 if (!isGroup) return reply(ind.groupo())
