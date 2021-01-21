@@ -123,7 +123,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ╠☞ *XP* : ${getLevelingXp(sender)}/${reqXp}
 ╠☞ *Level* : ${getLevelingLevel(sender)}
 ╠☞ *User register* : ${_registered.length}
-╰════─⊱  ⸨ *AFFIS* ⸩  ⊰─════╯
+╰════─⊱  ⸨ *KUKUH* ⸩  ⊰─════╯
 
             𝐑𝐮𝐥𝐞𝐬 - 𝐒𝐢𝐦𝐩𝐥𝐞
 ▬▭▬▭▬▭▬▭▬▭▬▭▬
@@ -137,6 +137,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ▬▭▬▭▬▭▬▭▬▭▬▭▬
 
 ╭══─⊱ ❰ *MAKER MENU* ❱ ⊰─══➤
+║
 ╠☞ *${prefix}sticker*
 ╠☞ *${prefix}vinta*
 ╠☞ *${prefix}avengers*
@@ -152,6 +153,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ╠☞ *${prefix}lava*
 ║
 ╠══─⊱ ❰ *FUN MENU* ❱ ⊰─════➤
+║
 ╠☞ *${prefix}mining*
 ╠☞ *${prefix}bisakah*
 ╠☞ *${prefix}kapankah*
@@ -162,6 +164,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ╠☞ *${prefix}speed*
 ║
 ╠══─⊱ ❰ *MEDIA MENU* ❱ ⊰─═══➤
+║
 ╠☞ *${prefix}toxic*
 ╠☞ *${prefix}quotes*
 ╠☞ *${prefix}beritahoax*
@@ -171,16 +174,19 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ╠☞ *${prefix}igstalk*
 ║
 ╠══─⊱ ❰ *LIMIT MENU* ❱ ⊰─═══➤
+║
 ╠☞ *${prefix}limit*
 ╠☞ *${prefix}buylimit*
 ╠☞ *${prefix}dompet*
 ║
 ╠══─⊱ ❰ *NSFW MENU* ❱ ⊰─═══➤
+║
 ╠☞ *${prefix}pokemon*
 ╠☞ *${prefix}anjing*
 ╠☞ *${prefix}1cak*
 ║
 ╠══─⊱ ❰ *GROUP MENU* ❱ ⊰─══➤
+║
 ╠☞ *${prefix}hidetag*
 ╠☞ *${prefix}grouplist*
 ╠☞ *${prefix}limit*
@@ -202,6 +208,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ╠☞ *${prefix}welcome* [1/0]
 ║
 ╠══─⊱ ❰ *OWNER MENU* ❱ ⊰─══➤
+║
 ╠☞ *${prefix}bc*
 ╠☞ *${prefix}bcgc*
 ╠☞ *${prefix}kickall*
@@ -222,7 +229,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ╠☞ *XPTN (AGUNG)*
 ╠☞ *MYBOT TEAM*
 ║
-╰════─⊱  ⸨ *AFFIS* ⸩  ⊰─════╯
+╰════─⊱  ⸨ *KUKUHBOT* ⸩  ⊰─════╯
 `
 }
 
